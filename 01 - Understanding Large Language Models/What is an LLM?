@@ -1,0 +1,8 @@
+NLP Vs NLU Vs NLG Vs LLM:
+•	NLP (Natural Language Processing): A field to focus on enabling AI ability to understand context, processing language, and generate response. Example: Tokenization, Machine translation, Text summarization.
+•	NLU (Natural Language Understanding): A subfield of NLP focusing on how to understand a human language input (text or speech). Example: Intent recognition, Sentiment analysis, Coreference resolution (e.g. figuring out what “he” or “she” means).
+•	NLG (Natural Language Generation):  A subfield of NLP focusing on content generation human language output from structured data or representations. Example: Text summarization, Conversational response, Report generation.
+•	LLM (Large Language Model): An AI model trained on vast amount of text data to apply NLP tasks in wider area. It understands context from input, process the context provided into insights, and generate content human can understand. You can say it is the combination of NLU and NLG.
+ 
+
+![Image](https://github.com/user-attachments/assets/63bc6d11-f9e1-41cf-bd52-1ce273be2185)
